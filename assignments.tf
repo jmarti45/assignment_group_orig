@@ -1,4 +1,4 @@
-/#
+#/
 # assign reader role for team working on subscription 
 resource "azurerm_role_assignment" "subscription1" {
   scope = var.subscription
