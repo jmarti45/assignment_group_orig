@@ -5,6 +5,6 @@ variable "securitygroup" {
 
 
 # managementgroup
-variable "managementgroup" {
+variable "mgroup" {
   type = string
 }
