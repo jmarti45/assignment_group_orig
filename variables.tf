@@ -3,8 +3,9 @@ variable "securitygroup" {
   type = string
 }
 
-
-# managementgroup
+# Group
 variable "mgroup" {
   type = string
 }
+
+
